@@ -1,0 +1,14 @@
+Collunm,Data
+contact_id,ID of Call
+Client-Phone,Client Phone Number
+skill_name,Outbound /Inbound 
+campaign_name,Campaign Name
+agent_no,Agent ID
+start_date,Day 
+start_time,Time
+PreQueue,Seconds in Pre queue - Not visible for Agent
+InQueue,Seconds in queue - visible for Agent identified
+Agent_Time,Handle time (s)
+Total_Time,Total Client time - (s)
+Abandon_Time,Time before Hangup - no answer
+abandon,Y/N
